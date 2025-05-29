@@ -48,5 +48,5 @@ O dashboard foi desenvolvido com foco em usabilidade, performance e clareza visu
 
 ## 🖼️ Prints do Dashboard
 
-> 📌 Insira abaixo capturas de tela do seu relatório para facilitar a visualização:
+![Exemplo 1](GerenciamentoVendas.png)
 
